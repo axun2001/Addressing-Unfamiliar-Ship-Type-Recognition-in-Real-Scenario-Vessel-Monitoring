@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the paper:
 
-**"Addressing Unfamiliar Ship Type Recognition in Real-Scenario Vessel Monitoring: A Multi-Angle Metric Networks Framework"
+**"Addressing Unfamiliar Ship Type Recognition in Real-Scenario Vessel Monitoring: A Multi-Angle Metric Networks Framework"**
 
 ## Introduction
 
