@@ -1,4 +1,4 @@
-# Addressing-Unfamiliar-Ship-Type-Recognition-in-Real-Scenario-Vessel-Monitoring
+# Unfamiliar-Ship-Type-Recognition
 
 This repository contains the code accompanying the paper:
 
